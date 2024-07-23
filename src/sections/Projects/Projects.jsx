@@ -24,9 +24,9 @@ function Projects() {
         />
         <ProjectCard
           src={hipsster}
-          link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="Hipsster"
-          p="Glasses Shop"
+          link="https://e-commerce-by-vishu.netlify.app"
+          h3="E-Commerce"
+          p="Shopping Platform"
         />
         <ProjectCard
           src={fitLift}
