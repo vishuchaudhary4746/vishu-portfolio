@@ -30,7 +30,7 @@ function Projects() {
         />
         <ProjectCard
           src={fitLift}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link="https://github.com/vishuchaudhary4746/FitLift"
           h3="FitLift"
           p="Fitness App"
         />
