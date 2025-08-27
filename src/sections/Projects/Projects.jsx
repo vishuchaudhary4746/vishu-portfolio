@@ -13,7 +13,7 @@ function Projects() {
       <div className={styles.projectsContainer}>
         <ProjectCard
           src={viberr}
-          link="https://github.com/vishuchaudhary4746/tictactoegame"
+          link="https://667b263ed951da6ad0f5fbde--luxury-brioche-fea888.netlify.app/"
           h3="Tic Tac Toe"
           p="Two Player Game"
         />
