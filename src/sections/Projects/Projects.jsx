@@ -1,8 +1,9 @@
 import styles from './ProjectsStyles.module.css';
 import viberr from '../../assets/viberr.png';
-import freshBurger from '../../assets/fresh-burger.png';
+import itl from '../../assets/itl.png';
 import hipsster from '../../assets/hipsster.png';
-import fitLift from '../../assets/fitlift.png';
+import shibura from '../../assets/shibura.png';
+import pashupati from '../../assets/pashupati.png';
 import ProjectCard from '../../common/ProjectCard';
 
 function Projects() {
@@ -17,10 +18,10 @@ function Projects() {
           p="Two Player Game"
         />
         <ProjectCard
-          src={freshBurger}
-          link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="Fresh Burger"
-          p="Hamburger Restaurant"
+          src={itl}
+          link="https://github.com/vishuchaudhary4746/ITL"
+          h3="Indus Tubes Ltd."
+          p="ITL"
         />
         <ProjectCard
           src={hipsster}
@@ -29,11 +30,19 @@ function Projects() {
           p="Shopping Platform"
         />
         <ProjectCard
-          src={fitLift}
-          link="https://github.com/vishuchaudhary4746/FitLift"
-          h3="FitLift"
-          p="Fitness App"
+          src={shibura}
+          link="https://github.com/vishuchaudhary4746/Shibura"
+          h3="Shibura"
+          p="Bio medical"
         />
+        <ProjectCard
+          src={pashupati}
+          link="https://www.pashupati-grp.com/"
+          h3="Pashupati Group"
+          p="A Legacy of Innovation and Sustainability"
+        />
+        
+        
       </div>
     </section>
   );
